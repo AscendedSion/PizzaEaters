@@ -72,11 +72,24 @@ namespace Pizzaeaters
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-                     string message = "RAT Initialized.";
-            //string title = "AscendedSION";
+            string message = "";
+            if (checkBox1.Checked)
+            {
+                message = "RAT Initialized.";
+                //string title = "AscendedSION";
+
+                Process.Start("cmd.exe", @"/C taskkill /IM cmd.exe");
+            }
+
+            else
+            {
+                message = "Rat Uninitialized";
+
+            }
+
+
             MessageBox.Show(message);
-            Process.Start("cmd.exe", @"/C taskkill /IM cmd.exe");        
         }
     }
-    }
+}
 
