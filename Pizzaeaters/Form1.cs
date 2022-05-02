@@ -67,15 +67,15 @@ namespace Pizzaeaters
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            string message = "RAT Initialized.";
-            //string title = "AscendedSION";
-            MessageBox.Show(message);
-            Process.Start("cmd.exe", @"/C taskkill /IM cmd.exe");
+           // nothing to see here
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-
+                     string message = "RAT Initialized.";
+            //string title = "AscendedSION";
+            MessageBox.Show(message);
+            Process.Start("cmd.exe", @"/C taskkill /IM cmd.exe");        
         }
     }
     }
