@@ -1,0 +1,16 @@
+C:\Users\halen\source\repos\Pizzaeaters\bin\Debug\netcoreapp3.1\Pizzaeaters.exe
+C:\Users\halen\source\repos\Pizzaeaters\bin\Debug\netcoreapp3.1\Pizzaeaters.deps.json
+C:\Users\halen\source\repos\Pizzaeaters\bin\Debug\netcoreapp3.1\Pizzaeaters.runtimeconfig.json
+C:\Users\halen\source\repos\Pizzaeaters\bin\Debug\netcoreapp3.1\Pizzaeaters.runtimeconfig.dev.json
+C:\Users\halen\source\repos\Pizzaeaters\bin\Debug\netcoreapp3.1\Pizzaeaters.dll
+C:\Users\halen\source\repos\Pizzaeaters\bin\Debug\netcoreapp3.1\Pizzaeaters.pdb
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.csproj.AssemblyReference.cache
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.Form1.resources
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.csproj.GenerateResource.cache
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.AssemblyInfoInputs.cache
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.AssemblyInfo.cs
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.csproj.CoreCompileInputs.cache
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.dll
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.pdb
+C:\Users\halen\source\repos\Pizzaeaters\obj\Debug\netcoreapp3.1\Pizzaeaters.genruntimeconfig.cache
